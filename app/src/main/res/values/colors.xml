@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="FondoLogin">#effc78</color>
+    <color name="FondoLinear">#d7fcf0</color>
+    <color name="ros">#e3f082</color>
+    <color name="d">#fcd79d</color>
+    <color name="cd">#fbf4ca</color>
+</resources>
